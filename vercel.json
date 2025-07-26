@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/ebay/account-deletion",
+      "dest": "/api/ebay/account-deletion.js"
+    }
+  ]
+}
